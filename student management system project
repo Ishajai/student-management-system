@@ -21,9 +21,9 @@ class Database:
 db = Database()
 
 # Add students to the database
-student1 = Student("John Doe", "S001", "john@example.com")
+student1 = Student("Isha jain", "S001", "isha@example.com")
 db.add_student(student1)
-student2 = Student("Jane Smith", "S002", "jane@example.com")
+student2 = Student("Vanshika", "S002", "vanshika@example.com")
 db.add_student(student2)
 
 # Retrieve student by roll number
